@@ -1,0 +1,20 @@
+.trafficLight {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: black;
+}
+
+#red {
+  position: relative;
+}
+
+#yellow {
+  position: absolute;
+  top: 108px;
+}
+
+#green {
+  position: absolute;
+  top: 208px;
+}
